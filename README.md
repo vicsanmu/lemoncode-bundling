@@ -1,5 +1,7 @@
 ## Webpack Solution
 
+Image optimization has been introduced in the build process.
+
 ##### Execute develop start
 `npm start`
 
